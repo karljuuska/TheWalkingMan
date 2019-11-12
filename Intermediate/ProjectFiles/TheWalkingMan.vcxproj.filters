@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheWalkingMan.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{84162D9A-1D73-4064-8A69-037FC5BF1DA7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheWalkingMan.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheWalkingManEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{616D64C2-DA7B-43E2-94EC-78B2D9C05181}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheWalkingMan">
+      <UniqueIdentifier>{C207E717-A685-49A4-9C7D-53866AF010F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheWalkingMan\TheWalkingMan.Build.cs">
+      <Filter>Source\TheWalkingMan</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheWalkingMan\TheWalkingMan.cpp">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheWalkingMan\TheWalkingMan.h">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheWalkingMan\TheWalkingManCharacter.cpp">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheWalkingMan\TheWalkingManCharacter.h">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheWalkingMan\TheWalkingManGameMode.cpp">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheWalkingMan\TheWalkingManGameMode.h">
+      <Filter>Source\TheWalkingMan</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

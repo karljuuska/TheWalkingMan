@@ -1,0 +1,3 @@
+C:\Users\Karl Martin\Documents\Unreal Projects\TheWalkingMan\Source\TheWalkingMan\TheWalkingMan.Build.cs
+C:\Users\Karl Martin\Documents\Unreal Projects\TheWalkingMan\Source\TheWalkingMan.Target.cs
+C:\Users\Karl Martin\Documents\Unreal Projects\TheWalkingMan\Source\TheWalkingManEditor.Target.cs
